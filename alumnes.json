@@ -1,0 +1,69 @@
+[
+    {
+        "id": 1,
+        "nom": "Monkey D.",
+        "cognom": "Luffy",
+        "data": {"dia": 5, "mes": 5, "any": 2000},
+        "email": "luffy@grandline.com",
+        "feina": false,
+        "curs": "DAW1"
+    },
+    {
+        "id": 2,
+        "nom": "Carles",
+        "cognom": "Puigdemont",
+        "data": {"dia": 29, "mes": 12, "any": 1962},
+        "email": "carles@waterloo.cat",
+        "feina": true,
+        "curs": "DAM2"
+    },
+    {
+        "id": 3,
+        "nom": "Falete",
+        "cognom": "Fernández",
+        "data": {"dia": 6, "mes": 1, "any": 1978},
+        "email": "falete@cantejondo.es",
+        "feina": true,
+        "curs": "DAW2"
+    },
+    {
+        "id": 4,
+        "nom": "Quim",
+        "cognom": "Torra",
+        "data": {"dia": 28, "mes": 12, "any": 1962},
+        "email": "quim@catalunya.cat",
+        "feina": true,
+        "curs": "DAM1"
+    },
+    {
+        "id": 5,
+        "nom": "Mariano",
+        "cognom": "Rajoy",
+        "data": {"dia": 27, "mes": 3, "any": 1955},
+        "email": "mariano@gobierno.es",
+        "feina": true,
+        "curs": "DAW1"
+    },
+    {
+        "id": 6,
+        "nom": "José Luis",
+        "cognom": "Rodríguez Zapatero",
+        "data": {"dia": 4, "mes": 8, "any": 1960},
+        "email": "zapatero@moncloa.es",
+        "feina": false,
+        "curs": "DAM2"
+    },
+    {
+        "id": 6,
+        "nom": "Kim",
+        "cognom": "Lazaro Pardo",
+        "data": {
+            "dia": 16,
+            "mes": 5,
+            "any": 1999
+        },
+        "email": "kim@lolxd.cat",
+        "feina": false,
+        "curs": "homeless"
+    }
+]
